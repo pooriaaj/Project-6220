@@ -1,6 +1,10 @@
 # Galton's Data Analysis
 
-This repository contains code and data for analyzing and visualizing Galton's height data.
+This repository contains code and data for analyzing and visualizing Galton's height data. The project is based on Sir Francis Galton’s study of predicting children's height based on their parents' height and finding the relationship between them.
+
+## Project Overview
+
+Galton’s study explores the correlation between the heights of parents and their children. This project uses Galton’s dataset to visualize and analyze how parental height influences child height. By applying statistical methods and visualization techniques, we aim to uncover patterns and trends in this relationship.
 
 ## Files
 
